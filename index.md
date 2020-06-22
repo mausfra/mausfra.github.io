@@ -13,3 +13,4 @@ Sie vertritt die Schule Beauxbatons aus Frankreich. Sie wird eine der sieben Har
 > Dies ist ein
 > Zitat von Fleur Delacour
 
+<img src="https://upload.wikimedia.org/wikipedia/bs/1/1e/Fleur_Delacour.jpg"/>
