@@ -10,3 +10,6 @@ Sie vertritt die Schule Beauxbatons aus Frankreich. Sie wird eine der sieben Har
 * Stichpunkt 3
 * Stichpunkt 4
 
+> Dies ist ein
+> Zitat von Fleur Delacour
+
